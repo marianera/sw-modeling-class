@@ -65,4 +65,5 @@ Under Presentation Date:
  - [OpenRA](https://github.com/OpenRA/OpenRA) 
  - [Repo](https://github.com/marianera/OpenRA-sw-modeling-class/wiki)
  - [PPT](https://github.com/AABADELR/sw-modeling-class/blob/master/files/OpenRA-presentation.pptx)
+ - [Report] (https://github.com/AABADELR/sw-modeling-class/blob/master/files/OpenRA%20report%20-%20pdf.pdf)
 
